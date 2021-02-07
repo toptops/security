@@ -6,6 +6,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 class BasicsecurityApplicationTests {
 
 	void contextLoads() {
-	}
+ 	}
 
 }
